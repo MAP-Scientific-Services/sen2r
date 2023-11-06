@@ -25,3 +25,6 @@ vignettes/*.pdf
 *.Rproj
 doc
 Meta
+testfile.R
+mtset.R
+majourtest.R
